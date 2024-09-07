@@ -1,0 +1,116 @@
+{
+    "m_Id": "BlenderSceneViewControl",
+    "m_ParentId": "",
+    "m_Entries": [
+        {
+            "identifier": {
+                "path": "Main Menu/Blender Scene View Control/Bottom View (Numpad 9)"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 265,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Blender Scene View Control/Front View (Numpad 1)"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 257,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Blender Scene View Control/Reset View (Numpad 0)"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 256,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Blender Scene View Control/Right View (Numpad 3)"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 259,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Blender Scene View Control/Rotate Down (Numpad 2)"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 258,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Blender Scene View Control/Rotate Left (Numpad 4)"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 260,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Blender Scene View Control/Rotate Right (Numpad 6)"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 262,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Blender Scene View Control/Rotate Up (Numpad 8)"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 264,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Blender Scene View Control/Toggle Orthographic (Numpad 5)"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 261,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Blender Scene View Control/Top View (Numpad 7)"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 263,
+                    "m_Modifiers": 0
+                }
+            ]
+        }
+    ]
+}
