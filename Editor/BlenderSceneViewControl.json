@@ -4,7 +4,7 @@
     "m_Entries": [
         {
             "identifier": {
-                "path": "Main Menu/Blender Scene View Control/Bottom View (Numpad 9)"
+                "path": "Main Menu/Edit/Blender Scene View Control/Bottom View (Numpad 9)"
             },
             "combinations": [
                 {
@@ -15,7 +15,7 @@
         },
         {
             "identifier": {
-                "path": "Main Menu/Blender Scene View Control/Front View (Numpad 1)"
+                "path": "Main Menu/Edit/Blender Scene View Control/Front View (Numpad 1)"
             },
             "combinations": [
                 {
@@ -26,7 +26,7 @@
         },
         {
             "identifier": {
-                "path": "Main Menu/Blender Scene View Control/Reset View (Numpad 0)"
+                "path": "Main Menu/Edit/Blender Scene View Control/Reset View (Numpad 0)"
             },
             "combinations": [
                 {
@@ -37,7 +37,7 @@
         },
         {
             "identifier": {
-                "path": "Main Menu/Blender Scene View Control/Right View (Numpad 3)"
+                "path": "Main Menu/Edit/Blender Scene View Control/Right View (Numpad 3)"
             },
             "combinations": [
                 {
@@ -48,7 +48,7 @@
         },
         {
             "identifier": {
-                "path": "Main Menu/Blender Scene View Control/Rotate Down (Numpad 2)"
+                "path": "Main Menu/Edit/Blender Scene View Control/Rotate Down (Numpad 2)"
             },
             "combinations": [
                 {
@@ -59,7 +59,7 @@
         },
         {
             "identifier": {
-                "path": "Main Menu/Blender Scene View Control/Rotate Left (Numpad 4)"
+                "path": "Main Menu/Edit/Blender Scene View Control/Rotate Left (Numpad 4)"
             },
             "combinations": [
                 {
@@ -70,7 +70,7 @@
         },
         {
             "identifier": {
-                "path": "Main Menu/Blender Scene View Control/Rotate Right (Numpad 6)"
+                "path": "Main Menu/Edit/Blender Scene View Control/Rotate Right (Numpad 6)"
             },
             "combinations": [
                 {
@@ -81,7 +81,7 @@
         },
         {
             "identifier": {
-                "path": "Main Menu/Blender Scene View Control/Rotate Up (Numpad 8)"
+                "path": "Main Menu/Edit/Blender Scene View Control/Rotate Up (Numpad 8)"
             },
             "combinations": [
                 {
@@ -92,7 +92,7 @@
         },
         {
             "identifier": {
-                "path": "Main Menu/Blender Scene View Control/Toggle Orthographic (Numpad 5)"
+                "path": "Main Menu/Edit/Blender Scene View Control/Toggle Orthographic (Numpad 5)"
             },
             "combinations": [
                 {
@@ -103,7 +103,7 @@
         },
         {
             "identifier": {
-                "path": "Main Menu/Blender Scene View Control/Top View (Numpad 7)"
+                "path": "Main Menu/Edit/Blender Scene View Control/Top View (Numpad 7)"
             },
             "combinations": [
                 {
