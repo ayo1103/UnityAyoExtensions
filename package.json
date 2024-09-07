@@ -1,0 +1,12 @@
+﻿{
+  "name": "com.ayo.unity-ayo-extensions",
+  "version": "1.0.0",
+  "displayName": "Unity Ayo Extensions",
+  "description": "Unity Ayo Extensions",
+  "unity": "2022.3",
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
