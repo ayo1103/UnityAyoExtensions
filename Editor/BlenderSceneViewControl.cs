@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace UnityEditorTools.BlenderShortcuts
+namespace UnityAyoExtensions
 {
     public static class BlenderSceneViewControl
     {
