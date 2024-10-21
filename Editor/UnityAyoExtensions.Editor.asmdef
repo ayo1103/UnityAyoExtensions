@@ -2,7 +2,7 @@
     "name": "UnityAyoExtensions.Editor",
     "rootNamespace": "UnityAyoExtensions.Editor",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": ["Editor"],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
