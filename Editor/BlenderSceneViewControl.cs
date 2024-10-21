@@ -11,13 +11,13 @@ namespace UnityAyoExtensions.Editor
         [Shortcut("BlenderSceneViewControl/Front View", KeyCode.Keypad1, displayName = "Blender Scene View Control/Front View")]
         private static void SetFrontView()
         {
-            RotateSceneViewTo(SceneView.lastActiveSceneView, Quaternion.Euler(0, 0, 0));
+            RotateSceneViewTo(SceneView.lastActiveSceneView, Quaternion.Euler(0, 180, 0));
         }
 
         [Shortcut("BlenderSceneViewControl/Right View", KeyCode.Keypad3, displayName = "Blender Scene View Control/Right View")]
         private static void SetRightView()
         {
-            RotateSceneViewTo(SceneView.lastActiveSceneView, Quaternion.Euler(0, 90, 0));
+            RotateSceneViewTo(SceneView.lastActiveSceneView, Quaternion.Euler(0, -90, 0));
         }
 
         [Shortcut("BlenderSceneViewControl/Top View", KeyCode.Keypad7, displayName = "Blender Scene View Control/Top View")]
